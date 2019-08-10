@@ -1,5 +1,6 @@
 # General
 This is an excercise where one puts their programming skills to the test. It can be used for any programming language, however here it is explained and solved in English & Python 3 ;).
+Note that this excercise should not take more than 20-25 minutes to finish by yourself.
 
 
 # Characterizing the excercise
